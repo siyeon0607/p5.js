@@ -22,10 +22,10 @@ h1 {
 
 #projects {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
   width: 100%;
-  max-width: 800px;
-  gap: 16px;
+  max-width: 1000px; /* 여기서 크기 조절 */
+  gap: 24px;         /* 간격 조절 */
 }
 
 #projects .cell {
