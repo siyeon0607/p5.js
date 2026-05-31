@@ -29,7 +29,7 @@ h1 {
 }
 
 #projects .cell {
-  aspect-ratio: 2 / 3;
+  aspect-ratio: 1 / 1;
   background: #fff;
   border: 1px solid #ddd;
   border-radius: 12px;
